@@ -8,7 +8,6 @@ This organization contains the repositories required to build AOSP-based ROMs fo
 #### Xiaomi 'Peridot' family a.k.a POCO F6 and Redmi Turbo 3
 * [**Peridot Device tree**](https://github.com/sm8635-dev/device_xiaomi_peridot) (`device_xiaomi_peridot`)
 * [**Peridot Vendor tree**](https://github.com/sm8635-dev/vendor_xiaomi_peridot) (`vendor_xiaomi_peridot`)
-* [**Peridot Prebuilt Device tree**](https://github.com/sm8635-dev/device_xiaomi_peridot-prebuilt) (`device_xiaomi_peridot-prebuilt`)
 
 ---
 
