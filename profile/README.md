@@ -2,6 +2,8 @@
 
 This organization contains the repositories required to build AOSP-based ROMs for devices based on the Qualcomm Snapdragon 8s Gen 3 (SM8635) platform, specifically the POCO F6 / Redmi Turbo 3.
 
+**Maintainer:** [zenin1504](https://t.me/zenin1504)
+
 **Status:** Currently supports Android 16, QPR0 and also booted QPR1.
 
 ### Required device specific repositories
