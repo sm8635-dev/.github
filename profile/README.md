@@ -4,7 +4,7 @@ This organization contains the repositories required to build AOSP-based ROMs fo
 
 **Maintainer:** [zenin1504](https://t.me/zenin1504)
 
-**Status:** Currently supports Android 16, QPR0 and also booted QPR1.
+**Status:** Currently supports Android 16 QPR1 only
 
 ### Required device specific repositories
 #### Xiaomi 'Peridot' family a.k.a POCO F6 and Redmi Turbo 3
