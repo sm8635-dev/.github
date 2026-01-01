@@ -23,3 +23,7 @@ This organization contains the repositories required to build AOSP-based ROMs fo
 
 ### Other required repositories
 * [**Xiaomi Hardware**](https://github.com/sm8635-dev/hardware_xiaomi) (`hardware_xiaomi`)
+
+### Required patches
+* [**For fixing dolby service crash**](https://github.com/sm8635-dev/frameworks_av/commit/b17a39b6e6359f8cc5174de64dde58115459688d) (`frameworks_av`)
+* [**For avoiding SW DAP effects suspend**](https://github.com/sm8635-dev/frameworks_av/commit/09e19c1a215b1bd714e8dff4ca7f04c9e3eb6a50) (`frameworks_av`)
