@@ -13,3 +13,6 @@ This organization contains the repositories required to build AOSP-based ROMs fo
 * [**Xiaomi SM8635 Kernel Devicetrees**](https://github.com/sm8635-dev/kernel_xiaomi_sm8635-devicetrees) (`kernel_xiaomi_sm8635-devicetrees`)
 * [**Xiaomi SM8635 Kernel Modules**](https://github.com/sm8635-dev/kernel_xiaomi_sm8635-modules) (`kernel_xiaomi_sm8635-modules`)
 * [**Xiaomi SM8635 Kernel source**](https://github.com/sm8635-dev/kernel_xiaomi_sm8635) (`kernel_xiaomi_sm8635`)
+
+### Required commit for c2 crash
+* [**Add Sony's Codec2 service**](https://github.com/sm8635-dev/device_xiaomi_peridot/commit/8d065eeadf1a97e451053a03b0f406f41baeac82) — Sony's C2 service implementation to fix media crashes.
